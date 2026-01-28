@@ -1,1 +1,15 @@
+# OS
+.DS_Store
 
+# Environment
+.env
+.env.*
+
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+
+# Android Studio
+.idea/
